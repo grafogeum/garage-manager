@@ -1,0 +1,3002 @@
+[
+    {
+        "id": "42b4c471-9e97-47b1-af54-1247d2313bbd",
+        "contact": {
+            "phone": "(813) 519-3079",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 2971,
+        "sizes": [
+            9,
+            11,
+            19
+        ]
+    },
+    {
+        "id": "0112aaf8-f5a4-43b8-8b31-1aea1d1e3341",
+        "contact": {
+            "phone": "(812) 600-3391",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 3062,
+        "sizes": [
+            6,
+            12,
+            17
+        ]
+    },
+    {
+        "id": "72e14f58-64b6-4fd2-aa79-b991dc6732e5",
+        "contact": {
+            "phone": "(806) 552-3653",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 2549,
+        "sizes": [
+            6,
+            12,
+            15
+        ]
+    },
+    {
+        "id": "8a31a163-e6a5-41b6-a7c4-17a21aa8ce4a",
+        "contact": {
+            "phone": "(829) 507-2160",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 4163,
+        "sizes": [
+            8,
+            12,
+            18
+        ]
+    },
+    {
+        "id": "3da518ac-09af-488c-92cd-d08183a049c5",
+        "contact": {
+            "phone": "(956) 529-2703",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 1702,
+        "sizes": [
+            10,
+            12,
+            15
+        ]
+    },
+    {
+        "id": "85841737-1113-4d6c-ab53-8a14bdf0c57c",
+        "contact": {
+            "phone": "(965) 567-2833",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 1280,
+        "sizes": [
+            9,
+            13,
+            16
+        ]
+    },
+    {
+        "id": "3d259e8e-505d-417f-aadc-dbe9666352d8",
+        "contact": {
+            "phone": "(829) 493-3608",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 2892,
+        "sizes": [
+            8,
+            13,
+            20
+        ]
+    },
+    {
+        "id": "10bdc2de-851d-4ce5-901b-ad3ef30251f8",
+        "contact": {
+            "phone": "(916) 441-2611",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 2941,
+        "sizes": [
+            10,
+            12,
+            18
+        ]
+    },
+    {
+        "id": "37a7a53e-1f58-45f7-b900-48d0ec7f842a",
+        "contact": {
+            "phone": "(821) 525-2237",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 4867,
+        "sizes": [
+            10,
+            10,
+            18
+        ]
+    },
+    {
+        "id": "b7105d73-23c0-424c-bbd2-bb7cc63e928c",
+        "contact": {
+            "phone": "(840) 574-3862",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 4174,
+        "sizes": [
+            6,
+            13,
+            19
+        ]
+    },
+    {
+        "id": "3b776866-0f13-469f-86a8-725b0e6dc4fd",
+        "contact": {
+            "phone": "(939) 574-2926",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 662,
+        "sizes": [
+            5,
+            10,
+            16
+        ]
+    },
+    {
+        "id": "a16f5202-29d1-4541-891f-8e49bd617633",
+        "contact": {
+            "phone": "(916) 420-2056",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 4015,
+        "sizes": [
+            6,
+            13,
+            17
+        ]
+    },
+    {
+        "id": "4d918043-ac0d-4f3f-96b0-db285f728d7f",
+        "contact": {
+            "phone": "(974) 486-3987",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 2527,
+        "sizes": [
+            10,
+            10,
+            16
+        ]
+    },
+    {
+        "id": "73045893-2218-4e32-a77d-aed039ed6a72",
+        "contact": {
+            "phone": "(994) 596-3083",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 520,
+        "sizes": [
+            6,
+            13,
+            15
+        ]
+    },
+    {
+        "id": "cbdb3e90-4e3d-4dd6-93dd-051fd3c85b73",
+        "contact": {
+            "phone": "(890) 552-2027",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 1192,
+        "sizes": [
+            6,
+            12,
+            18
+        ]
+    },
+    {
+        "id": "7bb39395-a5cd-49ea-88bd-efd2d0465495",
+        "contact": {
+            "phone": "(900) 544-2725",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 2153,
+        "sizes": [
+            10,
+            14,
+            19
+        ]
+    },
+    {
+        "id": "3ec9b9b3-b9f2-4d2a-8860-779f7dd8b29e",
+        "contact": {
+            "phone": "(832) 546-2432",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 610,
+        "sizes": [
+            10,
+            14,
+            17
+        ]
+    },
+    {
+        "id": "876a0a26-4493-4cbb-98fb-2e503cee00d9",
+        "contact": {
+            "phone": "(905) 571-2401",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 1558,
+        "sizes": [
+            8,
+            15,
+            20
+        ]
+    },
+    {
+        "id": "41fabcc7-a575-4354-9b46-c3e18c39f762",
+        "contact": {
+            "phone": "(849) 567-3606",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 1223,
+        "sizes": [
+            10,
+            11,
+            16
+        ]
+    },
+    {
+        "id": "cb37b738-990e-46fd-bf63-65741146edd6",
+        "contact": {
+            "phone": "(997) 544-2202",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 3707,
+        "sizes": [
+            8,
+            10,
+            17
+        ]
+    },
+    {
+        "id": "a310503a-20c0-4201-9db3-33acdf70c28d",
+        "contact": {
+            "phone": "(962) 462-3989",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 1719,
+        "sizes": [
+            7,
+            13,
+            16
+        ]
+    },
+    {
+        "id": "938a2002-ab7d-485d-93ed-e1ecb3cd682e",
+        "contact": {
+            "phone": "(824) 467-3519",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 2064,
+        "sizes": [
+            6,
+            15,
+            20
+        ]
+    },
+    {
+        "id": "cfce151a-0904-43e7-b558-d759b753b2fa",
+        "contact": {
+            "phone": "(884) 456-3849",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 653,
+        "sizes": [
+            6,
+            15,
+            15
+        ]
+    },
+    {
+        "id": "12497b57-632f-48a6-9e6c-624017345916",
+        "contact": {
+            "phone": "(865) 524-2311",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 3785,
+        "sizes": [
+            5,
+            10,
+            16
+        ]
+    },
+    {
+        "id": "baede926-e3f4-41ac-9471-2da990c8c65a",
+        "contact": {
+            "phone": "(848) 555-3173",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 3587,
+        "sizes": [
+            8,
+            10,
+            17
+        ]
+    },
+    {
+        "id": "3a8030d6-7dae-4a5b-9781-bc14454b745c",
+        "contact": {
+            "phone": "(850) 592-3580",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 4424,
+        "sizes": [
+            10,
+            13,
+            18
+        ]
+    },
+    {
+        "id": "01aedea0-512c-48b7-9731-dcd675dbe283",
+        "contact": {
+            "phone": "(938) 561-3119",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 4814,
+        "sizes": [
+            9,
+            14,
+            16
+        ]
+    },
+    {
+        "id": "5504b429-5bf5-4092-843b-8ee935dd29f6",
+        "contact": {
+            "phone": "(945) 459-2607",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 4604,
+        "sizes": [
+            10,
+            13,
+            15
+        ]
+    },
+    {
+        "id": "7d3d7f44-4a3c-4328-8e04-b79ff0abc05d",
+        "contact": {
+            "phone": "(836) 496-2838",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 1032,
+        "sizes": [
+            10,
+            11,
+            20
+        ]
+    },
+    {
+        "id": "2532b72d-4f7d-4610-92e1-d2f0b7a72f25",
+        "contact": {
+            "phone": "(999) 559-3365",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 3775,
+        "sizes": [
+            7,
+            13,
+            19
+        ]
+    },
+    {
+        "id": "9398bdd9-5e2c-4460-95d9-83ddcc961386",
+        "contact": {
+            "phone": "(995) 480-3414",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 944,
+        "sizes": [
+            5,
+            11,
+            19
+        ]
+    },
+    {
+        "id": "e817b512-8279-4b94-bb54-2c78bcb21ec6",
+        "contact": {
+            "phone": "(838) 513-2353",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 1183,
+        "sizes": [
+            10,
+            10,
+            16
+        ]
+    },
+    {
+        "id": "c11530dd-a374-45fa-8bb2-217d8618cfa4",
+        "contact": {
+            "phone": "(902) 599-3758",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 718,
+        "sizes": [
+            6,
+            14,
+            17
+        ]
+    },
+    {
+        "id": "d458fffb-8c3b-48dd-bc44-b04beea8fdec",
+        "contact": {
+            "phone": "(896) 469-3034",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 766,
+        "sizes": [
+            10,
+            14,
+            19
+        ]
+    },
+    {
+        "id": "81558a0b-570e-45da-8cb6-b95afe6b9d4b",
+        "contact": {
+            "phone": "(937) 545-3741",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 3935,
+        "sizes": [
+            10,
+            12,
+            15
+        ]
+    },
+    {
+        "id": "ee4de8ba-73b0-4689-9c43-8e9a487c01c8",
+        "contact": {
+            "phone": "(933) 543-3294",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 1747,
+        "sizes": [
+            10,
+            12,
+            19
+        ]
+    },
+    {
+        "id": "7ecf263b-473d-440d-8c89-9f6d0b4bbd7d",
+        "contact": {
+            "phone": "(851) 577-2072",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 1036,
+        "sizes": [
+            7,
+            12,
+            19
+        ]
+    },
+    {
+        "id": "968c1fc2-aad3-4d32-8641-e2c3b5079874",
+        "contact": {
+            "phone": "(996) 470-3154",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 1122,
+        "sizes": [
+            10,
+            12,
+            17
+        ]
+    },
+    {
+        "id": "92f7f504-8028-44c6-adc5-72fd77de8ec3",
+        "contact": {
+            "phone": "(817) 488-2883",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 2702,
+        "sizes": [
+            5,
+            11,
+            16
+        ]
+    },
+    {
+        "id": "5c5896b3-75ef-442f-b2e3-d7e76c47410b",
+        "contact": {
+            "phone": "(895) 500-2341",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 2209,
+        "sizes": [
+            7,
+            15,
+            18
+        ]
+    },
+    {
+        "id": "2307e153-973b-4697-ba13-3fa617ffce00",
+        "contact": {
+            "phone": "(800) 532-2267",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 1951,
+        "sizes": [
+            9,
+            14,
+            20
+        ]
+    },
+    {
+        "id": "33192c7c-c080-4271-967a-1013dbd66488",
+        "contact": {
+            "phone": "(801) 598-2551",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 3829,
+        "sizes": [
+            9,
+            12,
+            19
+        ]
+    },
+    {
+        "id": "3e58365a-5ce6-45ec-a5fa-477b7b9bd857",
+        "contact": {
+            "phone": "(914) 530-3198",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 2916,
+        "sizes": [
+            5,
+            12,
+            15
+        ]
+    },
+    {
+        "id": "20afeb28-bfac-4f2f-80ea-36b7914cced0",
+        "contact": {
+            "phone": "(891) 505-3665",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 1199,
+        "sizes": [
+            6,
+            12,
+            16
+        ]
+    },
+    {
+        "id": "6cfa0f75-389a-4f0d-b170-1a9ba558d136",
+        "contact": {
+            "phone": "(996) 418-2503",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 1017,
+        "sizes": [
+            9,
+            11,
+            17
+        ]
+    },
+    {
+        "id": "b5be3e74-8746-4252-b6d3-dac19bd102c3",
+        "contact": {
+            "phone": "(818) 466-2374",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 4737,
+        "sizes": [
+            6,
+            15,
+            15
+        ]
+    },
+    {
+        "id": "c41a3efc-5c1b-42cc-9598-b28a7080b6b0",
+        "contact": {
+            "phone": "(967) 447-2823",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 1827,
+        "sizes": [
+            7,
+            11,
+            16
+        ]
+    },
+    {
+        "id": "ca5a86c8-882a-472a-b6f4-ce23d4517d0e",
+        "contact": {
+            "phone": "(845) 568-3044",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 4314,
+        "sizes": [
+            8,
+            11,
+            19
+        ]
+    },
+    {
+        "id": "0e40eb27-151c-4684-a951-6812ea154dab",
+        "contact": {
+            "phone": "(924) 538-2970",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 1821,
+        "sizes": [
+            6,
+            13,
+            18
+        ]
+    },
+    {
+        "id": "6c0a8824-6a08-4828-a414-a12f48262081",
+        "contact": {
+            "phone": "(958) 446-3833",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 1107,
+        "sizes": [
+            7,
+            15,
+            16
+        ]
+    },
+    {
+        "id": "423a2fb6-9875-4c87-9eff-32031f622b77",
+        "contact": {
+            "phone": "(927) 513-3357",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 3873,
+        "sizes": [
+            6,
+            15,
+            19
+        ]
+    },
+    {
+        "id": "62ff2b63-7d89-40eb-9802-e1ce915cce94",
+        "contact": {
+            "phone": "(862) 440-3202",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 4076,
+        "sizes": [
+            7,
+            11,
+            16
+        ]
+    },
+    {
+        "id": "e82f1161-e08e-464e-9597-245ce61294dc",
+        "contact": {
+            "phone": "(970) 508-2268",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 4065,
+        "sizes": [
+            6,
+            15,
+            17
+        ]
+    },
+    {
+        "id": "cc7bb3f6-e2af-4ff1-8bca-5a2dc61fc657",
+        "contact": {
+            "phone": "(997) 578-2167",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 1825,
+        "sizes": [
+            5,
+            11,
+            16
+        ]
+    },
+    {
+        "id": "9ceababe-d044-42d7-b280-b33ce6d52e17",
+        "contact": {
+            "phone": "(991) 573-2652",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 1343,
+        "sizes": [
+            9,
+            10,
+            19
+        ]
+    },
+    {
+        "id": "4a8ddfb6-1803-4ee8-9b59-97e6f44f5dec",
+        "contact": {
+            "phone": "(962) 462-3517",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 4263,
+        "sizes": [
+            5,
+            12,
+            17
+        ]
+    },
+    {
+        "id": "8df60aa6-345f-4e31-9310-26bdda84dd00",
+        "contact": {
+            "phone": "(954) 595-3335",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 1452,
+        "sizes": [
+            9,
+            15,
+            20
+        ]
+    },
+    {
+        "id": "1bb3431f-2df4-4a3f-9809-e9ef77056a5a",
+        "contact": {
+            "phone": "(988) 507-3409",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 1764,
+        "sizes": [
+            10,
+            15,
+            18
+        ]
+    },
+    {
+        "id": "04b2a33b-75a6-49d6-a9c8-af1c3697d087",
+        "contact": {
+            "phone": "(907) 522-3582",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 3641,
+        "sizes": [
+            10,
+            15,
+            19
+        ]
+    },
+    {
+        "id": "748c7130-8dbd-4da1-8889-940b1ec2c006",
+        "contact": {
+            "phone": "(955) 590-3354",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 544,
+        "sizes": [
+            10,
+            10,
+            16
+        ]
+    },
+    {
+        "id": "ca52231a-bfd4-4a80-98b2-010e574feb7c",
+        "contact": {
+            "phone": "(903) 483-2788",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 2790,
+        "sizes": [
+            6,
+            11,
+            15
+        ]
+    },
+    {
+        "id": "0da64729-1fa6-48d5-9030-f47ad7af51e6",
+        "contact": {
+            "phone": "(904) 566-3234",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 746,
+        "sizes": [
+            7,
+            12,
+            20
+        ]
+    },
+    {
+        "id": "3e0b2bcf-f813-4b2a-857d-e23da3abc43d",
+        "contact": {
+            "phone": "(877) 481-3836",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 988,
+        "sizes": [
+            5,
+            12,
+            18
+        ]
+    },
+    {
+        "id": "210f9a18-dca2-4af7-8c83-5e20ac6b0633",
+        "contact": {
+            "phone": "(865) 546-3298",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 3695,
+        "sizes": [
+            8,
+            11,
+            18
+        ]
+    },
+    {
+        "id": "4885c7cd-1eff-42d0-b1bd-bfaa8ba16ed9",
+        "contact": {
+            "phone": "(896) 484-2112",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 4362,
+        "sizes": [
+            9,
+            11,
+            20
+        ]
+    },
+    {
+        "id": "1f725e42-ad7d-4ea9-914f-d3fd272ac5f7",
+        "contact": {
+            "phone": "(834) 579-3198",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 3678,
+        "sizes": [
+            9,
+            14,
+            20
+        ]
+    },
+    {
+        "id": "a6264d18-7572-4a0f-b6af-9227fd8667c4",
+        "contact": {
+            "phone": "(965) 573-2636",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 2475,
+        "sizes": [
+            8,
+            11,
+            15
+        ]
+    },
+    {
+        "id": "ed4d0090-984e-4b25-9099-0d75f9cc3e33",
+        "contact": {
+            "phone": "(881) 596-2076",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 4881,
+        "sizes": [
+            7,
+            12,
+            18
+        ]
+    },
+    {
+        "id": "88adfde2-9fcd-45b3-9e96-e4ad4765a0b5",
+        "contact": {
+            "phone": "(803) 594-3964",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 4545,
+        "sizes": [
+            6,
+            10,
+            15
+        ]
+    },
+    {
+        "id": "02a725bb-c038-44b5-ae7c-59324473bfa5",
+        "contact": {
+            "phone": "(882) 479-3190",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 3703,
+        "sizes": [
+            6,
+            11,
+            17
+        ]
+    },
+    {
+        "id": "404cf869-1e13-4118-b877-47945c545780",
+        "contact": {
+            "phone": "(822) 486-2428",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 2804,
+        "sizes": [
+            7,
+            15,
+            17
+        ]
+    },
+    {
+        "id": "fc0fa291-66d3-4455-8f96-acdf452532f9",
+        "contact": {
+            "phone": "(983) 519-3905",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 3808,
+        "sizes": [
+            7,
+            13,
+            20
+        ]
+    },
+    {
+        "id": "99121619-2e9c-4fbc-913b-170f4a620d74",
+        "contact": {
+            "phone": "(828) 409-3734",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 3065,
+        "sizes": [
+            8,
+            15,
+            19
+        ]
+    },
+    {
+        "id": "530e8d7d-258d-448e-955b-2983e6bc9092",
+        "contact": {
+            "phone": "(847) 446-2501",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 1341,
+        "sizes": [
+            5,
+            12,
+            17
+        ]
+    },
+    {
+        "id": "b94e4e34-bec2-4bac-869b-c01dd70cea1a",
+        "contact": {
+            "phone": "(940) 526-2799",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 2522,
+        "sizes": [
+            5,
+            13,
+            15
+        ]
+    },
+    {
+        "id": "67d97f6e-8e3a-4457-8146-54516bc4c0d4",
+        "contact": {
+            "phone": "(943) 522-2803",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 1129,
+        "sizes": [
+            9,
+            15,
+            18
+        ]
+    },
+    {
+        "id": "4395ffd9-439e-48be-a68a-06b60b2cbe52",
+        "contact": {
+            "phone": "(961) 464-2861",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 2078,
+        "sizes": [
+            8,
+            13,
+            15
+        ]
+    },
+    {
+        "id": "04aeda4d-bdb6-4b0d-a5f7-09be6ffa886d",
+        "contact": {
+            "phone": "(871) 573-2276",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 2692,
+        "sizes": [
+            9,
+            13,
+            19
+        ]
+    },
+    {
+        "id": "1f91e1a4-0d97-4a70-8d1b-6e3ca72ec785",
+        "contact": {
+            "phone": "(817) 551-3402",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 2537,
+        "sizes": [
+            5,
+            13,
+            20
+        ]
+    },
+    {
+        "id": "82ab10f0-d805-42f3-88bb-299cad7548d8",
+        "contact": {
+            "phone": "(894) 462-3624",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 1209,
+        "sizes": [
+            6,
+            12,
+            17
+        ]
+    },
+    {
+        "id": "3d865507-4aec-47bc-8988-1e149d422422",
+        "contact": {
+            "phone": "(890) 515-2653",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 2470,
+        "sizes": [
+            10,
+            13,
+            15
+        ]
+    },
+    {
+        "id": "85c82ecf-803d-492b-9253-82e6b6efd565",
+        "contact": {
+            "phone": "(845) 442-2722",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 3644,
+        "sizes": [
+            7,
+            11,
+            19
+        ]
+    },
+    {
+        "id": "3356dc5b-d24c-4051-b672-6ed52635f54e",
+        "contact": {
+            "phone": "(962) 450-2760",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 4502,
+        "sizes": [
+            7,
+            14,
+            15
+        ]
+    },
+    {
+        "id": "adab7b1a-0100-48a7-9202-253c9bd81083",
+        "contact": {
+            "phone": "(977) 478-2168",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 2881,
+        "sizes": [
+            9,
+            13,
+            16
+        ]
+    },
+    {
+        "id": "2b6f73fb-8ecb-47cf-8279-2d34d8554cc5",
+        "contact": {
+            "phone": "(900) 556-3524",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 1473,
+        "sizes": [
+            8,
+            10,
+            15
+        ]
+    },
+    {
+        "id": "7a8838c2-ed8b-4bc9-819d-36381be09707",
+        "contact": {
+            "phone": "(991) 486-2681",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 1551,
+        "sizes": [
+            6,
+            14,
+            15
+        ]
+    },
+    {
+        "id": "8baed3e4-68d1-4feb-86c1-2b3fa9e69ab9",
+        "contact": {
+            "phone": "(980) 583-3916",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 3785,
+        "sizes": [
+            6,
+            12,
+            20
+        ]
+    },
+    {
+        "id": "d11329d3-7c42-40d0-9150-5e23caf5399a",
+        "contact": {
+            "phone": "(867) 443-3422",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 511,
+        "sizes": [
+            9,
+            12,
+            15
+        ]
+    },
+    {
+        "id": "6a8212c0-c743-4c3c-a683-232f8257e589",
+        "contact": {
+            "phone": "(986) 444-3001",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 1121,
+        "sizes": [
+            7,
+            12,
+            20
+        ]
+    },
+    {
+        "id": "aeb649e9-13af-458a-879d-255b4b90eba0",
+        "contact": {
+            "phone": "(863) 497-2534",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 1591,
+        "sizes": [
+            8,
+            12,
+            15
+        ]
+    },
+    {
+        "id": "64f7debe-1adb-4904-b480-d65c936f2c9a",
+        "contact": {
+            "phone": "(918) 525-2510",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 3236,
+        "sizes": [
+            6,
+            12,
+            18
+        ]
+    },
+    {
+        "id": "4c199850-e68e-4ebc-b920-1bdb458abfff",
+        "contact": {
+            "phone": "(829) 438-3401",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 4080,
+        "sizes": [
+            7,
+            15,
+            15
+        ]
+    },
+    {
+        "id": "3f4cf6be-be61-4d0d-b60d-fe8d3d079177",
+        "contact": {
+            "phone": "(941) 538-2724",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 1355,
+        "sizes": [
+            8,
+            15,
+            18
+        ]
+    },
+    {
+        "id": "5a9a6569-e263-48d7-af53-bb604a8e3a1c",
+        "contact": {
+            "phone": "(880) 520-2205",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 1036,
+        "sizes": [
+            8,
+            11,
+            19
+        ]
+    },
+    {
+        "id": "b0f8a206-fb80-4222-89ad-d8d52f68b9e4",
+        "contact": {
+            "phone": "(964) 456-3264",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 4182,
+        "sizes": [
+            9,
+            14,
+            17
+        ]
+    },
+    {
+        "id": "13f12a6b-7cda-4bec-a279-45d41d815c53",
+        "contact": {
+            "phone": "(821) 439-3788",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 2291,
+        "sizes": [
+            5,
+            15,
+            19
+        ]
+    },
+    {
+        "id": "5301fc2f-1bf4-4bff-a0d0-ee9aa016e432",
+        "contact": {
+            "phone": "(825) 573-2360",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 932,
+        "sizes": [
+            6,
+            13,
+            17
+        ]
+    },
+    {
+        "id": "aeb25817-0584-4611-9401-b007772c9d8e",
+        "contact": {
+            "phone": "(866) 408-3802",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 4389,
+        "sizes": [
+            6,
+            12,
+            15
+        ]
+    },
+    {
+        "id": "1977f796-415b-4843-bc5b-dbcb1b8214d4",
+        "contact": {
+            "phone": "(840) 574-3505",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 1723,
+        "sizes": [
+            8,
+            12,
+            15
+        ]
+    },
+    {
+        "id": "b2acdcdd-a829-4e71-8238-5fa79d397eb9",
+        "contact": {
+            "phone": "(859) 465-3237",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 4334,
+        "sizes": [
+            9,
+            12,
+            16
+        ]
+    },
+    {
+        "id": "23b2d88f-dd90-4a05-95d4-343b8e354b09",
+        "contact": {
+            "phone": "(939) 411-3235",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 863,
+        "sizes": [
+            10,
+            15,
+            18
+        ]
+    },
+    {
+        "id": "08c1a3fc-d016-4c59-8d95-11ad09191c79",
+        "contact": {
+            "phone": "(870) 415-2367",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 3577,
+        "sizes": [
+            7,
+            12,
+            20
+        ]
+    },
+    {
+        "id": "010667b5-7e63-46dd-afa3-01ff319a8827",
+        "contact": {
+            "phone": "(939) 546-2878",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 3698,
+        "sizes": [
+            6,
+            14,
+            18
+        ]
+    },
+    {
+        "id": "8db9c15c-2c50-4f8b-a33c-4a6b6c6f3f94",
+        "contact": {
+            "phone": "(805) 449-3610",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 4801,
+        "sizes": [
+            8,
+            15,
+            18
+        ]
+    },
+    {
+        "id": "6fc64e67-5be1-445d-9bed-7d87ee392904",
+        "contact": {
+            "phone": "(986) 544-3764",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 1180,
+        "sizes": [
+            9,
+            15,
+            15
+        ]
+    },
+    {
+        "id": "9cfc3ec7-2d0b-4ebd-b92f-69b934f6f546",
+        "contact": {
+            "phone": "(850) 421-3360",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 1909,
+        "sizes": [
+            10,
+            14,
+            17
+        ]
+    },
+    {
+        "id": "cd11b910-3cad-4fe0-a369-e97dbd2cab9a",
+        "contact": {
+            "phone": "(977) 465-2534",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 2649,
+        "sizes": [
+            7,
+            10,
+            19
+        ]
+    },
+    {
+        "id": "28ec0c6d-4f61-48df-ba65-18f97dcaf52e",
+        "contact": {
+            "phone": "(934) 529-2805",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 3862,
+        "sizes": [
+            9,
+            13,
+            17
+        ]
+    },
+    {
+        "id": "2db879f7-2e07-4f6c-8d1e-ad4573362a26",
+        "contact": {
+            "phone": "(915) 486-3899",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 3779,
+        "sizes": [
+            10,
+            14,
+            19
+        ]
+    },
+    {
+        "id": "a9a22f3a-edab-4378-a225-f574c81fb754",
+        "contact": {
+            "phone": "(964) 429-2835",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 2062,
+        "sizes": [
+            8,
+            14,
+            17
+        ]
+    },
+    {
+        "id": "99df2aa4-a2ef-4a3a-a4a9-cea49249091f",
+        "contact": {
+            "phone": "(932) 503-2364",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 2269,
+        "sizes": [
+            6,
+            12,
+            18
+        ]
+    },
+    {
+        "id": "6141403d-eaa6-4729-8757-bee36bb5f820",
+        "contact": {
+            "phone": "(905) 442-2333",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 2577,
+        "sizes": [
+            9,
+            12,
+            19
+        ]
+    },
+    {
+        "id": "e80dce43-f2d1-428c-8ca2-217588b51071",
+        "contact": {
+            "phone": "(984) 439-3429",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 4700,
+        "sizes": [
+            10,
+            15,
+            17
+        ]
+    },
+    {
+        "id": "3c9e3778-d35d-4aa5-ba14-6c6d3b9f0bf5",
+        "contact": {
+            "phone": "(989) 596-3545",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 1993,
+        "sizes": [
+            6,
+            11,
+            16
+        ]
+    },
+    {
+        "id": "f5da3f35-f6a2-47ba-ae35-9df09e4123c5",
+        "contact": {
+            "phone": "(943) 551-2185",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 2745,
+        "sizes": [
+            7,
+            11,
+            19
+        ]
+    },
+    {
+        "id": "45d1c8e3-5369-46d5-a510-4e4cc95712be",
+        "contact": {
+            "phone": "(969) 522-2882",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 2050,
+        "sizes": [
+            6,
+            15,
+            15
+        ]
+    },
+    {
+        "id": "683ee48c-25d8-4a21-ab41-cfebcaef13b8",
+        "contact": {
+            "phone": "(820) 440-2968",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 1201,
+        "sizes": [
+            10,
+            14,
+            15
+        ]
+    },
+    {
+        "id": "44b5e5cd-0639-469b-b3f1-8e25bb43ac3d",
+        "contact": {
+            "phone": "(816) 574-3436",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 1451,
+        "sizes": [
+            8,
+            14,
+            16
+        ]
+    },
+    {
+        "id": "dd72ec91-7472-4dd3-bebd-c84d84846a01",
+        "contact": {
+            "phone": "(975) 517-2145",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 1631,
+        "sizes": [
+            6,
+            11,
+            20
+        ]
+    },
+    {
+        "id": "0eb0f947-49ce-4954-a266-d297a79bf4df",
+        "contact": {
+            "phone": "(856) 507-2811",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 553,
+        "sizes": [
+            8,
+            14,
+            19
+        ]
+    },
+    {
+        "id": "5151dba6-070e-4bb0-8dd0-8326b846e168",
+        "contact": {
+            "phone": "(823) 464-2153",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 866,
+        "sizes": [
+            8,
+            12,
+            15
+        ]
+    },
+    {
+        "id": "f38b30fd-1699-4f7c-93fe-b5bb81a2b152",
+        "contact": {
+            "phone": "(833) 570-3515",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 4794,
+        "sizes": [
+            9,
+            14,
+            16
+        ]
+    },
+    {
+        "id": "12518c5a-9ec7-473f-87f4-612efadfd931",
+        "contact": {
+            "phone": "(877) 458-3054",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 2498,
+        "sizes": [
+            7,
+            13,
+            18
+        ]
+    },
+    {
+        "id": "e1ef826e-02e0-4c11-be25-d9123af2906e",
+        "contact": {
+            "phone": "(957) 434-2388",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 2473,
+        "sizes": [
+            6,
+            13,
+            20
+        ]
+    },
+    {
+        "id": "c3c21e7f-00b6-4074-9744-0b90293606e7",
+        "contact": {
+            "phone": "(998) 592-2558",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 3894,
+        "sizes": [
+            6,
+            14,
+            18
+        ]
+    },
+    {
+        "id": "a01c146d-e580-41ac-836c-5cd024b04af6",
+        "contact": {
+            "phone": "(952) 528-3872",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 2097,
+        "sizes": [
+            8,
+            14,
+            18
+        ]
+    },
+    {
+        "id": "00fda792-ee12-40c2-804a-48ced9e4768b",
+        "contact": {
+            "phone": "(816) 419-3987",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 643,
+        "sizes": [
+            8,
+            11,
+            20
+        ]
+    },
+    {
+        "id": "a238e987-49db-47c2-98fc-ed17af8357cd",
+        "contact": {
+            "phone": "(862) 578-2352",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 968,
+        "sizes": [
+            6,
+            12,
+            18
+        ]
+    },
+    {
+        "id": "6e4d8343-83d8-4882-833e-61b6ca8a2825",
+        "contact": {
+            "phone": "(939) 417-3724",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 3219,
+        "sizes": [
+            6,
+            10,
+            20
+        ]
+    },
+    {
+        "id": "29ed6b88-8200-43a1-be84-867ced7e2607",
+        "contact": {
+            "phone": "(981) 502-2441",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 2117,
+        "sizes": [
+            9,
+            12,
+            20
+        ]
+    },
+    {
+        "id": "05522187-6d24-43e5-a7f0-ff9a788d1dbe",
+        "contact": {
+            "phone": "(928) 431-2111",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 4414,
+        "sizes": [
+            7,
+            12,
+            19
+        ]
+    },
+    {
+        "id": "15466c47-64d4-4872-9504-83d358c7f1da",
+        "contact": {
+            "phone": "(846) 507-2357",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 4690,
+        "sizes": [
+            8,
+            11,
+            20
+        ]
+    },
+    {
+        "id": "c2cb7e8f-308f-442b-9ccc-0e957ac36ac9",
+        "contact": {
+            "phone": "(937) 481-2116",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 3027,
+        "sizes": [
+            8,
+            14,
+            19
+        ]
+    },
+    {
+        "id": "ed7da639-392a-421d-a176-763805057d13",
+        "contact": {
+            "phone": "(862) 538-3784",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 2797,
+        "sizes": [
+            8,
+            13,
+            20
+        ]
+    },
+    {
+        "id": "0fc3b912-58d4-41a8-bb99-13275c3755f3",
+        "contact": {
+            "phone": "(803) 478-2012",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 1298,
+        "sizes": [
+            7,
+            13,
+            16
+        ]
+    },
+    {
+        "id": "d6e970d6-478d-4a75-8d64-4ea0a859a125",
+        "contact": {
+            "phone": "(853) 546-3772",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 2309,
+        "sizes": [
+            10,
+            10,
+            18
+        ]
+    },
+    {
+        "id": "e21315b9-548c-42d3-b6c9-ec1cd67421f7",
+        "contact": {
+            "phone": "(826) 524-3650",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 4984,
+        "sizes": [
+            10,
+            11,
+            16
+        ]
+    },
+    {
+        "id": "851593aa-cc94-45a5-8a92-6702b18728b7",
+        "contact": {
+            "phone": "(922) 427-3584",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 4319,
+        "sizes": [
+            5,
+            10,
+            15
+        ]
+    },
+    {
+        "id": "555ce42c-03b1-4536-bcad-cd9f1b1ee7d4",
+        "contact": {
+            "phone": "(929) 521-2391",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 1551,
+        "sizes": [
+            8,
+            13,
+            17
+        ]
+    },
+    {
+        "id": "72704a32-d68b-4a21-bdaa-49583ba08e95",
+        "contact": {
+            "phone": "(889) 465-3885",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 2766,
+        "sizes": [
+            10,
+            11,
+            19
+        ]
+    },
+    {
+        "id": "4c34f8b0-9797-470c-9749-51787d95d879",
+        "contact": {
+            "phone": "(877) 442-2490",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 1928,
+        "sizes": [
+            5,
+            11,
+            17
+        ]
+    },
+    {
+        "id": "0e65307a-cd3e-4d95-a482-060892abf9ea",
+        "contact": {
+            "phone": "(977) 530-2207",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 2871,
+        "sizes": [
+            8,
+            14,
+            16
+        ]
+    },
+    {
+        "id": "c4b90151-ffaf-424a-a85d-44fa432f2ad2",
+        "contact": {
+            "phone": "(856) 549-2390",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 3115,
+        "sizes": [
+            5,
+            14,
+            15
+        ]
+    },
+    {
+        "id": "5a4e273b-ff0b-48bf-a298-4ea78152be62",
+        "contact": {
+            "phone": "(877) 535-3554",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 3395,
+        "sizes": [
+            8,
+            12,
+            19
+        ]
+    },
+    {
+        "id": "6d10ab6c-bc07-4f86-b7d2-976a8bf5fa78",
+        "contact": {
+            "phone": "(853) 454-2298",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 3363,
+        "sizes": [
+            8,
+            11,
+            19
+        ]
+    },
+    {
+        "id": "35ba952b-2a62-42ce-b256-68b87237ac60",
+        "contact": {
+            "phone": "(911) 486-2639",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 4890,
+        "sizes": [
+            6,
+            10,
+            19
+        ]
+    },
+    {
+        "id": "cd4b88ee-3c2b-4ec6-9e54-e7c1c7c42618",
+        "contact": {
+            "phone": "(920) 467-2363",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 1839,
+        "sizes": [
+            9,
+            13,
+            19
+        ]
+    },
+    {
+        "id": "08b1d11b-fd97-4045-a865-9dd62da6dcc5",
+        "contact": {
+            "phone": "(836) 494-3626",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 4008,
+        "sizes": [
+            5,
+            10,
+            18
+        ]
+    },
+    {
+        "id": "013b115f-1bad-427b-a486-db37c725df55",
+        "contact": {
+            "phone": "(998) 406-3721",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 4526,
+        "sizes": [
+            8,
+            14,
+            16
+        ]
+    },
+    {
+        "id": "b964c8a3-4844-49dd-966c-846561ba732d",
+        "contact": {
+            "phone": "(804) 572-3348",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 4698,
+        "sizes": [
+            8,
+            12,
+            17
+        ]
+    },
+    {
+        "id": "4a4346ba-56ed-4821-87cc-eb3cbb13e82e",
+        "contact": {
+            "phone": "(805) 421-3467",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 1672,
+        "sizes": [
+            8,
+            15,
+            16
+        ]
+    },
+    {
+        "id": "86f7a4b1-bf6b-4640-b028-8a2ca3cb5035",
+        "contact": {
+            "phone": "(991) 478-3493",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 4928,
+        "sizes": [
+            5,
+            11,
+            16
+        ]
+    },
+    {
+        "id": "7b220081-177b-48c0-8bb3-e9f2bf0e7e84",
+        "contact": {
+            "phone": "(821) 499-3135",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 1315,
+        "sizes": [
+            5,
+            11,
+            19
+        ]
+    },
+    {
+        "id": "5bf112d5-f5e5-4305-9506-12d78829a36e",
+        "contact": {
+            "phone": "(969) 473-2927",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 3816,
+        "sizes": [
+            9,
+            12,
+            18
+        ]
+    },
+    {
+        "id": "c69ee50a-805e-4d38-becd-8067c9e89e22",
+        "contact": {
+            "phone": "(901) 455-2341",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 3255,
+        "sizes": [
+            7,
+            11,
+            20
+        ]
+    },
+    {
+        "id": "9c5068e1-e31e-4b5a-affd-d8cdf6fccd38",
+        "contact": {
+            "phone": "(885) 563-3530",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": true,
+        "price": 4402,
+        "sizes": [
+            7,
+            15,
+            19
+        ]
+    },
+    {
+        "id": "e484707b-73e6-4e85-82a0-c0d4949594dd",
+        "contact": {
+            "phone": "(985) 477-2939",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 1601,
+        "sizes": [
+            5,
+            10,
+            18
+        ]
+    },
+    {
+        "id": "fb2f8322-b20a-4ad6-8383-0e6851414707",
+        "contact": {
+            "phone": "(966) 480-2511",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 3896,
+        "sizes": [
+            7,
+            10,
+            20
+        ]
+    },
+    {
+        "id": "168119df-6da8-496a-a148-055f3ae9fc21",
+        "contact": {
+            "phone": "(967) 479-2379",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 2758,
+        "sizes": [
+            7,
+            15,
+            18
+        ]
+    },
+    {
+        "id": "0bb28997-cea6-4a91-80db-2f6bef03d6ce",
+        "contact": {
+            "phone": "(933) 581-3543",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 1023,
+        "sizes": [
+            10,
+            12,
+            18
+        ]
+    },
+    {
+        "id": "bd2dffd1-55aa-41ed-948b-62e2306b61a7",
+        "contact": {
+            "phone": "(834) 564-2520",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 2488,
+        "sizes": [
+            6,
+            13,
+            15
+        ]
+    },
+    {
+        "id": "9467e19d-2e18-4f22-a40d-4d7d05043868",
+        "contact": {
+            "phone": "(960) 467-2538",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 906,
+        "sizes": [
+            7,
+            15,
+            20
+        ]
+    },
+    {
+        "id": "50572e14-6d40-4536-a723-40c565f3b959",
+        "contact": {
+            "phone": "(986) 410-3337",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 4375,
+        "sizes": [
+            7,
+            11,
+            17
+        ]
+    },
+    {
+        "id": "9ec838dc-8d6e-459f-84f4-696a411ae99b",
+        "contact": {
+            "phone": "(812) 521-2848",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 4949,
+        "sizes": [
+            10,
+            15,
+            20
+        ]
+    },
+    {
+        "id": "e1eee2d2-d271-490c-bff9-ad72f428be1b",
+        "contact": {
+            "phone": "(868) 495-3298",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 4381,
+        "sizes": [
+            6,
+            13,
+            19
+        ]
+    },
+    {
+        "id": "fed00014-c29d-426f-82e1-8664f5af7d33",
+        "contact": {
+            "phone": "(903) 578-2696",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 714,
+        "sizes": [
+            7,
+            10,
+            16
+        ]
+    },
+    {
+        "id": "de8ad7d5-9385-484a-ab35-fb42bcb9bbab",
+        "contact": {
+            "phone": "(981) 457-3057",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 809,
+        "sizes": [
+            6,
+            13,
+            15
+        ]
+    },
+    {
+        "id": "8a14311d-dd2d-4607-8080-52123bd3f50f",
+        "contact": {
+            "phone": "(889) 423-3747",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 968,
+        "sizes": [
+            10,
+            12,
+            18
+        ]
+    },
+    {
+        "id": "6771a4ed-d9d9-49d8-8179-898ae4e6c316",
+        "contact": {
+            "phone": "(948) 594-3837",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 4005,
+        "sizes": [
+            6,
+            11,
+            19
+        ]
+    },
+    {
+        "id": "659244d4-5ce3-421e-8763-65db361ba73f",
+        "contact": {
+            "phone": "(935) 423-3551",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 923,
+        "sizes": [
+            8,
+            13,
+            16
+        ]
+    },
+    {
+        "id": "a58dc0c0-0e54-466e-b23c-b6cebe98afc2",
+        "contact": {
+            "phone": "(860) 450-2051",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 1478,
+        "sizes": [
+            8,
+            11,
+            15
+        ]
+    },
+    {
+        "id": "b048af47-4de8-40ed-9903-2d5a963946cb",
+        "contact": {
+            "phone": "(806) 567-2412",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 1104,
+        "sizes": [
+            7,
+            11,
+            15
+        ]
+    },
+    {
+        "id": "36de0c19-9ad8-420f-b2c4-1170e6a84f45",
+        "contact": {
+            "phone": "(925) 426-3147",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 3549,
+        "sizes": [
+            6,
+            10,
+            16
+        ]
+    },
+    {
+        "id": "b0105e6e-5d35-43c1-b780-cce74276f748",
+        "contact": {
+            "phone": "(926) 448-3445",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 4453,
+        "sizes": [
+            10,
+            12,
+            16
+        ]
+    },
+    {
+        "id": "23e27bd8-c361-4eba-afe9-4c5613fdc579",
+        "contact": {
+            "phone": "(959) 588-2844",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 3697,
+        "sizes": [
+            8,
+            15,
+            20
+        ]
+    },
+    {
+        "id": "91080f9b-6d36-40a8-866a-780a10c71454",
+        "contact": {
+            "phone": "(856) 566-2139",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 4287,
+        "sizes": [
+            7,
+            12,
+            19
+        ]
+    },
+    {
+        "id": "f25159a5-4a66-490e-b0ce-382186421ea3",
+        "contact": {
+            "phone": "(980) 449-3406",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 3440,
+        "sizes": [
+            7,
+            12,
+            20
+        ]
+    },
+    {
+        "id": "05385415-9d2c-4925-ad7a-7813c90235a7",
+        "contact": {
+            "phone": "(944) 533-3897",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 3221,
+        "sizes": [
+            8,
+            15,
+            16
+        ]
+    },
+    {
+        "id": "158e1062-69e6-4bac-8676-f98a6480c6a5",
+        "contact": {
+            "phone": "(863) 564-3368",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 4771,
+        "sizes": [
+            9,
+            13,
+            18
+        ]
+    },
+    {
+        "id": "e5f1ba66-998e-493f-a108-22809f05d532",
+        "contact": {
+            "phone": "(855) 500-3014",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 4360,
+        "sizes": [
+            6,
+            12,
+            17
+        ]
+    },
+    {
+        "id": "485a479d-c0f9-4966-a99d-bacb1f8bd945",
+        "contact": {
+            "phone": "(864) 561-2283",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 3177,
+        "sizes": [
+            10,
+            10,
+            20
+        ]
+    },
+    {
+        "id": "457a39fd-1f39-4be1-b93c-09e06fbd2cf0",
+        "contact": {
+            "phone": "(867) 539-2108",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 2069,
+        "sizes": [
+            9,
+            12,
+            20
+        ]
+    },
+    {
+        "id": "0d01e92d-b2a8-40c4-8aff-813e1a60e750",
+        "contact": {
+            "phone": "(944) 574-2609",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 1366,
+        "sizes": [
+            5,
+            12,
+            17
+        ]
+    },
+    {
+        "id": "68289dbf-9b7b-4db2-862f-5c7cc21f6151",
+        "contact": {
+            "phone": "(827) 469-3611",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 3760,
+        "sizes": [
+            6,
+            10,
+            19
+        ]
+    },
+    {
+        "id": "a9be99f4-0e4f-4e8c-ba19-193a06bfdbda",
+        "contact": {
+            "phone": "(928) 476-3100",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 3922,
+        "sizes": [
+            9,
+            14,
+            16
+        ]
+    },
+    {
+        "id": "ab7fcb6e-7461-42bd-a20c-363882f6acc3",
+        "contact": {
+            "phone": "(955) 552-3988",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": false,
+        "price": 3523,
+        "sizes": [
+            5,
+            14,
+            18
+        ]
+    },
+    {
+        "id": "980c523a-4c9b-46ca-9ab4-28b6dc18ecbc",
+        "contact": {
+            "phone": "(907) 469-3960",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 2058,
+        "sizes": [
+            8,
+            12,
+            19
+        ]
+    },
+    {
+        "id": "263ed8a2-b382-4447-8449-f86573c95ef2",
+        "contact": {
+            "phone": "(949) 527-2878",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 1188,
+        "sizes": [
+            7,
+            15,
+            20
+        ]
+    },
+    {
+        "id": "07402771-3994-4fbb-a82b-b478e1f4910b",
+        "contact": {
+            "phone": "(890) 551-3852",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 1113,
+        "sizes": [
+            5,
+            11,
+            15
+        ]
+    },
+    {
+        "id": "0361fa8c-c2f7-446a-aca3-35e126265d74",
+        "contact": {
+            "phone": "(839) 447-3761",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 2425,
+        "sizes": [
+            5,
+            10,
+            20
+        ]
+    },
+    {
+        "id": "5736b1a5-5f40-4668-bb67-95f01286ad64",
+        "contact": {
+            "phone": "(815) 599-2777",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "roofed",
+        "availability": false,
+        "price": 4303,
+        "sizes": [
+            7,
+            10,
+            15
+        ]
+    },
+    {
+        "id": "8bb40176-619b-4b21-b539-9849a7e1ed44",
+        "contact": {
+            "phone": "(968) 455-2775",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 3762,
+        "sizes": [
+            9,
+            11,
+            18
+        ]
+    },
+    {
+        "id": "58e297f9-6d8c-42ed-a96f-4935045ed115",
+        "contact": {
+            "phone": "(944) 501-3776",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": false,
+        "price": 1205,
+        "sizes": [
+            8,
+            15,
+            15
+        ]
+    },
+    {
+        "id": "d5e8746f-c463-4464-921d-7682fba82373",
+        "contact": {
+            "phone": "(950) 438-2454",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 3890,
+        "sizes": [
+            9,
+            11,
+            15
+        ]
+    },
+    {
+        "id": "767442d9-3c1a-41cb-9c2b-0378a4a86a63",
+        "contact": {
+            "phone": "(898) 467-3106",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "underground",
+        "availability": true,
+        "price": 1370,
+        "sizes": [
+            5,
+            13,
+            18
+        ]
+    },
+    {
+        "id": "460fdeb1-572b-4772-918d-f3a505337246",
+        "contact": {
+            "phone": "(835) 552-2730",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "ground",
+        "availability": true,
+        "price": 3946,
+        "sizes": [
+            5,
+            13,
+            18
+        ]
+    },
+    {
+        "id": "0c777b57-2522-46d3-b5af-ce2e8446bcb3",
+        "contact": {
+            "phone": "(861) 475-3207",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 2418,
+        "sizes": [
+            7,
+            13,
+            20
+        ]
+    },
+    {
+        "id": "307844d4-7147-4c0a-b03d-31d5dc25528f",
+        "contact": {
+            "phone": "(860) 505-2407",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": true,
+        "price": 1344,
+        "sizes": [
+            6,
+            13,
+            16
+        ]
+    },
+    {
+        "id": "b9735506-8839-45cf-b210-a39292e9ae72",
+        "contact": {
+            "phone": "(900) 554-2103",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 4930,
+        "sizes": [
+            9,
+            10,
+            18
+        ]
+    },
+    {
+        "id": "b46b00c0-55b9-4660-a247-5e65bae2538c",
+        "contact": {
+            "phone": "(987) 439-2897",
+            "email": "nolaslater@cablam.com"
+        },
+        "type": "outdoor",
+        "availability": false,
+        "price": 995,
+        "sizes": [
+            10,
+            13,
+            17
+        ]
+    }
+]
