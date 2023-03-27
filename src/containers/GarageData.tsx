@@ -20,8 +20,7 @@ export const GarageData = () => {
 	const [garage, setGarage] = useState<GarageDataProps>({
 		data: [],
 		loading: true,
-		error: null,
-		count: 0
+		error: null
 	});
 
 	const [retryCount, setRetryCount] = useState(0);
@@ -31,11 +30,11 @@ export const GarageData = () => {
 	};
 
 	const memoizedSetGarage = useCallback((response: Garage[]) => {
-		const indexDataResponse = (response: any) =>
-			response.map((garage: Garage, i: number) => ({
-				...garage,
-				index: i
-			}));
+		const indexDataResponse = (response: Garage[]) =>
+			response.map((garage, i) => {
+				const floor = Math.floor(i / 40) - 1;
+				return { ...garage, index: i, floor };
+			});
 
 		setGarage((prevState) => ({
 			...prevState,
@@ -56,8 +55,7 @@ export const GarageData = () => {
 				setGarage({
 					data: [],
 					loading: false,
-					error: null,
-					count: 0
+					error: null
 				});
 			}
 		};
