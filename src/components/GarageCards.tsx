@@ -3,6 +3,7 @@ import { GarageContext } from './Garage/GarageContext';
 import { GarageCard } from './Garage/GarageCard';
 import { withHandleLoading } from '../shared/hoc/withHandleLoading';
 import { covertStyleParam, Garage } from '../types';
+import { Button } from './utilities/Buttons/Button';
 
 const GarageCardsStyled = covertStyleParam({
 	display: 'flex',
@@ -24,22 +25,11 @@ const GarageCards = () => {
 		<>
 			<div style={GarageCardsStyled}>
 				{garage &&
-					garage.map(({ id, contact, index }: Garage, i: number) => (
-						<GarageCard key={id} id={id} contact={contact} index={index} />
+					garage.map(({ id, index }: Pick<Garage, 'id' | 'index'>) => (
+						<GarageCard key={id} id={id} index={index} />
 					))}
 			</div>
-			<button
-				style={{
-					width: '320px',
-					height: '100px',
-					backgroundColor: '#2244ee',
-					borderRadius: '10px',
-					border: 'none'
-				}}
-				onClick={handleRetry}
-			>
-				Retry
-			</button>
+			<Button onClick={handleRetry}>Load More</Button>
 		</>
 	);
 };
