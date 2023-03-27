@@ -7,17 +7,20 @@ import { List } from '../utilities/List/List';
 import { WrapperWithStyles, Wrapper } from '../utilities/Wrapper';
 import styled from '@emotion/styled';
 
-const PillButton = styled(Button)`
-	width: 100px;
+const PillButton = styled.div`
+	width: 90px;
+	height: 30px;
 	padding: 0px 10px;
 	font: normal 900 16px/16px Avenir;
 	color: #764abc;
-	height: 30px;
+	cursor: pointer;
 	background-color: #ffffff;
 	border-radius: 80px;
 	border: none;
+	display: flex;
 	justify-content: flex-end;
 	align-items: center;
+	margin: 10px;
 `;
 
 const garageCardStyled: CSSProperties = {
@@ -150,7 +153,9 @@ export const GarageCard = ({
 					/>
 				</Wrapper>
 			</WrapperWithStyles>
-			<Wrapper style={{ display: 'flex' }}>
+			<Wrapper
+				style={{ width: '100%', display: 'flex', justifyContent: 'flex-end' }}
+			>
 				<PillButton>
 					<div style={clicked ? {} : { opacity: '0.2' }}>
 						<span>Like 👍🏼</span>
