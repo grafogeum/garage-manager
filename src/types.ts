@@ -2,7 +2,8 @@ export interface Garage {
 	id: string;
 	contact: { phone: string; email: string };
 	clicked?: boolean;
-	index?: number | undefined;
+	index?: number;
+	floor?: number;
 	type: string;
 	availability: boolean;
 	price: number;
@@ -31,7 +32,6 @@ export interface GarageDataProps {
 	loading: boolean;
 	error: null | void | {};
 	handlers?: Handlers;
-	count: number;
 }
 
 type GarageWithHandlers = {
